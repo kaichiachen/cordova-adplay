@@ -16,7 +16,7 @@
     <platform name="android">
         <config-file target="config.xml" parent="/*">
             <feature name="CordovaAdplay">
-                <param name="android-package" value="com.vm5.plugins.CordovaAdplay" />
+                <param name="android-package" value="com.vm5.plugins.Adplay" />
             </feature>
         </config-file>
         <config-file target="AndroidManifest.xml" parent="/*">
